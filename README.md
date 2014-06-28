@@ -10,5 +10,5 @@ Please keep an eye on this repository and if you would like to contribute with e
 
 ####License
 
-&copy; 2014 Tharique Azeez
+&copy; 2014 Tharique Azeez<br/>
 MIT License (See LICENSE)
