@@ -8,6 +8,10 @@ Currently the repository is empty as I am testing different types of naming conv
 
 Please keep an eye on this repository and if you would like to contribute with encoding layout suggestions for Tamil encoding for Fontlab, please do send me a pull request this way. Thank you.
 
+####Reference
+
+Tamil unicode font chart from [unicode.org](http://www.unicode.org/charts/PDF/U0B80.pdf) [PDF].
+
 ####License
 
 &copy; 2014 Tharique Azeez<br/>
