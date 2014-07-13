@@ -6,7 +6,7 @@ Currently the repository is empty as I am testing different types of naming conv
 
 ####Contribute
 
-Please keep an eye on this repository and if you would like to contribute with encoding layout suggestions for Tamil encoding for Fontlab, please do send me a pull request this way. Thank you.
+Please keep an eye on this repository and if you would like to contribute with encoding layout suggestions for Tamil encoding for Fontlab, please do send me a pull request this way. Thank you. The current encoding based on Karla Tamil development name. Special thanks to Jonny Pinhorn.
 
 ####Reference
 
