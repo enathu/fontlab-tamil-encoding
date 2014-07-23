@@ -4,7 +4,9 @@ Here I am compiling an encoding file (*.enc) that can be used in Tamil unicode f
 
 ~~Currently the repository is empty as I am testing different types of naming conventions and I'll update with the Encoding file as soon as I feel it's ready to be shipped.~~
 
-The current encoding based on Karla Tamil development name. Special thanks to Jonny Pinhorn.
+~~The current encoding based on Karla Tamil development name. Special thanks to Jonny Pinhorn.~~
+
+The current encoding based on Lohit Tamil development names and 
 
 ####Contribute
 
