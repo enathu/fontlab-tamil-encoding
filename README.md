@@ -6,7 +6,7 @@ Fontlab encoding file (*.enc) that can be used in Tamil unicode font development
 
 ~~The current encoding based on Karla Tamil development name. Special thanks to Jonny Pinhorn.~~
 
-The current encoding based on Lohit Tamil development names and 
+The current encoding based on Lohit Tamil development names. 
 
 ####Contribute
 
